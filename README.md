@@ -45,5 +45,5 @@ Directly mapped to professional job evaluation levels (Levels 1–7).
 
 ---
 
-**Author:** [Amanda Klingvall]  
+**Author:** [Amanda Klingvall]  www.linkedin.com/in/amanda-klingvall-96318228a 
 **Topic:** Prompt Engineering / HR-Tech / AI Implementation
