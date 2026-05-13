@@ -6,7 +6,7 @@ This project features a specialized AI agent designed to streamline the job eval
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 Conducting job evaluations for 100+ roles is traditionally a time-consuming administrative challenge. This project leverages **Microsoft Copilot** and **Advanced Prompt Engineering** to transform complex interviews into structured data. 
 
 The agent guides you through a standardized framework—evaluating 9 key dimensions such as problem-solving, social skills, and financial responsibility—ensuring consistency and high data integrity.
